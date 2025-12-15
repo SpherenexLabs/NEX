@@ -1,1 +1,43 @@
 
+Industrial Grade IG45 Planetary DC Geared Encoder Servo Motor 50W 150RPM 12V 23KGCM
+
+IG45 12V 50W Planetary DC Geared Encoder Motor — Specifications
+==============================================================
+
+[ELECTRICAL]
+- Rated Voltage      : 12VDC
+- No-load Speed      : 142 RPM (output)
+- Rated Speed        : 105 RPM (output)
+- No-load Current    : 1.4 A
+- Rated Current      : 6.5 A
+- Stall Current      : 14 A
+
+[GEARBOX / TORQUE]
+- Gear Ratio             : 1:49
+- Rated Torque           : 23 kg·cm
+- Gearbox Breaking Torque: 200 kg·cm
+
+[BASE MOTOR]
+- Base Motor Speed   : 7000 RPM
+
+[MECHANICAL]
+- Motor Diameter     : 45 mm
+- Shaft Diameter     : 8 mm
+- Shaft Length       : 20 mm
+- Mounting Hole Size : M4
+
+[ENCODER]
+- Encoder Type       : Quadrature
+- Encoder PPR        : 13
+- Base Motor CPR     : 52
+- CPR at Output Shaft: 2548
+
+[ENCODER CONNECTIONS]
+- VCC : 5VDC
+- GND : GND
+- M+  : Motor Positive Terminal
+- M-  : Motor Negative Terminal
+- A   : Encoder Channel A
+- B   : Encoder Channel B
+```
+
