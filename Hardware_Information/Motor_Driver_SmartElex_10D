@@ -1,0 +1,42 @@
+SmartElex 10D Smart Motor Driver (Dual Motor, PWM & RC) — Specifications
+======================================================================
+
+[IDENTITY]
+- Product            : SmartElex 10D Smart Motor Driver (Powered by Raspberry Pi) :contentReference[oaicite:0]{index=0}
+- Motor type         : Dual-channel, brushed DC motor driver (bidirectional) :contentReference[oaicite:1]{index=1}
+
+[POWER / ELECTRICAL]
+- Motor supply (VIN) : 7V to 22V :contentReference[oaicite:2]{index=2}
+- Logic input levels : 3V and 5V logic supported :contentReference[oaicite:3]{index=3}
+- VIOH (logic HIGH)  : 3V to 5.5V :contentReference[oaicite:4]{index=4}
+- VIOL (logic LOW)   : 0V to 0.5V :contentReference[oaicite:5]{index=5}
+
+[CURRENT RATINGS]
+- Continuous current : 10A (max continuous) :contentReference[oaicite:6]{index=6}
+- Peak current (10s) : 30A for 10 sec (manual) :contentReference[oaicite:7]{index=7}
+                    : 20A for 10 sec (product page) :contentReference[oaicite:8]{index=8}
+- Current limiting   : 35A :contentReference[oaicite:9]{index=9}
+
+[PWM / CONTROL]
+- PWM frequency      : Up to 490 Hz :contentReference[oaicite:10]{index=10}
+- Supported modes    : RC, PWM, Analog, Serial USB :contentReference[oaicite:11]{index=11}
+- USB               : Type-C USB for SERIAL mode :contentReference[oaicite:12]{index=12}
+
+[PROTECTION / MONITORING]
+- Temperature sensor : Onboard temperature sensor :contentReference[oaicite:13]{index=13}
+- Thermal shutdown   : Internal thermal shutdown :contentReference[oaicite:14]{index=14}
+- Under-voltage      : Under-voltage lockout (ERR LED when VIN < 7V) :contentReference[oaicite:15]{index=15}
+
+[ONBOARD REGULATOR]
+- Buck converter     : Onboard 5V 3A buck converter :contentReference[oaicite:16]{index=16}
+
+[PHYSICAL]
+- PCB size           : 105 x 74 mm :contentReference[oaicite:17]{index=17}
+- Shipping weight    : 0.12 kg :contentReference[oaicite:18]{index=18}
+
+[PACKAGE INCLUDES]
+- 1 x SmartElex 10D Motor Driver board :contentReference[oaicite:19]{index=19}
+- 1 x Interfacing cable :contentReference[oaicite:20]{index=20}
+
+[WARRANTY]
+- Warranty           : 6 months :contentReference[oaicite:21]{index=21}
