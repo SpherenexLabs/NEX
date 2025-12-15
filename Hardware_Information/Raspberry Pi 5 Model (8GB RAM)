@@ -1,0 +1,53 @@
+Raspberry Pi 5 Model (8GB RAM) — Specifications (from Robu.in)
+==============================================================
+
+[IDENTITY]
+- Product / Model Name : Raspberry Pi 5 Model 8GB RAM 
+- Item Type            : Development Board 
+- Model                : Pi 5 
+- SKU                  : 1749034 
+
+[CPU / GPU / MEMORY]
+- CPU                  : 2.4GHz quad-core, 64-bit Arm Cortex-A76 (512KB L2 per core, 2MB shared L3) 
+- GPU                  : VideoCore VII 
+- RAM                  : 8GB LPDDR4X-4267 SDRAM 
+
+[WIRELESS / NETWORKING]
+- Wi-Fi                : Dual-band 2.4GHz & 5.0GHz 802.11ac 
+- Bluetooth            : Bluetooth 5.0 / Bluetooth Low Energy (BLE) 
+- Ethernet             : Gigabit Ethernet (PoE+ support requires PoE+ HAT) 
+
+[STORAGE]
+- microSD slot         : Yes (supports high-speed SDR104 mode) 
+
+[DISPLAY / CAMERA / MULTIMEDIA]
+- Display outputs      : Dual 4Kp60 display output via HDMI (2× micro HDMI) 
+- Video decode         : H.265 (4Kp60 decode) 
+- A/V jack             : 4-pole stereo audio + composite video port 
+- MIPI                 : 2 × 4-lane MIPI camera/display transceivers 
+- DSI (listed)         : 1 × DSI 
+
+[USB / I/O / EXPANSION]
+- USB ports            : 2 × USB 3.0 (5Gbps simultaneous), 2 × USB 2.0 
+- GPIO header          : Raspberry Pi standard 40-pin header (40-pin GPIO) 
+- PCIe                 : PCIe 2.0 x1 interface for fast peripherals 
+- Other onboard ports  : 1× Ethernet, USB Type-C, 2× micro HDMI, GPIO header (listed on page) 
+
+[POWER / RTC / BUTTON]
+- Power input          : 5V/5A DC power (USB-C, PD enabled) 
+- RTC                  : Real-Time Clock (RTC), powered by an external battery 
+- Power button         : On-board power button 
+- Note                 : Use only the recommended power supply (per product page note) 
+
+[ENVIRONMENT / DIMENSIONS]
+- Operating temperature: -10°C to 60°C 
+- Length               : 85 mm 
+- Width                : 56 mm 
+- Height               : 8 mm 
+- Weight               : 105 g 
+
+[PACKAGE INCLUDES]
+- 1 × Raspberry Pi 5 Model 8GB RAM 
+
+[WARRANTY]
+- Warranty             : 1 Year (supplier warranty, manufacturing defects) 
