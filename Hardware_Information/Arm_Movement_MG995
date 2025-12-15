@@ -1,0 +1,40 @@
+TowerPro MG995 Servo Motor — Specifications (from Robu.in)
+=========================================================
+
+[IDENTITY]
+- Model / Series      : MG995 (MG Series) 
+- Item Type           : TowerPro Servo Motor 
+
+[ELECTRICAL]
+- Operating Voltage   : 4.8V ~ 7.2V 
+
+[SPEED]
+- Operating Speed @4.8V : 0.20 sec/60° 
+- Operating Speed @6.6V : 0.16 sec/60° 
+
+[TORQUE]
+- Stall Torque @4.8V  : 10 kg-cm 
+- Stall Torque @6.6V  : 12 kg-cm 
+- Torque Rating       : 10 to 12 kg-cm 
+
+[MECHANICAL]
+- Rotation (Degree)   : 180 
+- Gear Type           : Semi-Metal 
+- Dimensions (LxWxH)  : 40.5 mm x 20 mm x 44 mm 
+- Weight              : 55 g 
+- Cable Length        : 30 cm 
+
+[ENVIRONMENT]
+- Operating Temperature : -30°C to 60°C 
+
+[CONNECTOR / WIRING]
+- Servo Plug Type     : JR 
+- Wire Colors         : RED = Positive, Brown = Negative, Orange = Signal 
+
+[PACKAGE INCLUDES]
+- 1 x TowerPro MG995 Servo Motor with Cable 
+- 1 x Set of Horns 
+- 1 x Set of Screws 
+
+[WARRANTY]
+- Warranty            : 15 Days 
